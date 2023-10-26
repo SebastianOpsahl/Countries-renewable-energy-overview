@@ -1,0 +1,2566 @@
+[
+  {
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "cca2": "CO",
+    "name": {
+      "common": "Colombia"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "PM",
+    "name": {
+      "common": "Saint Pierre and Miquelon"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "SB",
+    "name": {
+      "common": "Solomon Islands"
+    }
+  },
+  {
+    "borders": [
+      "IND"
+    ],
+    "cca2": "LK",
+    "name": {
+      "common": "Sri Lanka"
+    }
+  },
+  {
+    "borders": [
+      "BGD",
+      "CHN",
+      "IND",
+      "LAO",
+      "THA"
+    ],
+    "cca2": "MM",
+    "name": {
+      "common": "Myanmar"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "KM",
+    "name": {
+      "common": "Comoros"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "CV",
+    "name": {
+      "common": "Cape Verde"
+    }
+  },
+  {
+    "borders": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ],
+    "cca2": "ER",
+    "name": {
+      "common": "Eritrea"
+    }
+  },
+  {
+    "borders": [
+      "AUT",
+      "HRV",
+      "ITA",
+      "HUN"
+    ],
+    "cca2": "SI",
+    "name": {
+      "common": "Slovenia"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "BM",
+    "name": {
+      "common": "Bermuda"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "AU",
+    "name": {
+      "common": "Australia"
+    }
+  },
+  {
+    "borders": [
+      "MAF"
+    ],
+    "cca2": "SX",
+    "name": {
+      "common": "Sint Maarten"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "PH",
+    "name": {
+      "common": "Philippines"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "AG",
+    "name": {
+      "common": "Antigua and Barbuda"
+    }
+  },
+  {
+    "borders": [
+      "ROU",
+      "UKR"
+    ],
+    "cca2": "MD",
+    "name": {
+      "common": "Moldova"
+    }
+  },
+  {
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "cca2": "BT",
+    "name": {
+      "common": "Bhutan"
+    }
+  },
+  {
+    "borders": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "cca2": "MX",
+    "name": {
+      "common": "Mexico"
+    }
+  },
+  {
+    "borders": [
+      "USA"
+    ],
+    "cca2": "CA",
+    "name": {
+      "common": "Canada"
+    }
+  },
+  {
+    "borders": [
+      "NOR",
+      "SWE",
+      "RUS"
+    ],
+    "cca2": "FI",
+    "name": {
+      "common": "Finland"
+    }
+  },
+  {
+    "borders": [
+      "MMR",
+      "IND"
+    ],
+    "cca2": "BD",
+    "name": {
+      "common": "Bangladesh"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "AX",
+    "name": {
+      "common": "Åland Islands"
+    }
+  },
+  {
+    "borders": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ],
+    "cca2": "PY",
+    "name": {
+      "common": "Paraguay"
+    }
+  },
+  {
+    "borders": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ],
+    "cca2": "ZW",
+    "name": {
+      "common": "Zimbabwe"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "FK",
+    "name": {
+      "common": "Falkland Islands"
+    }
+  },
+  {
+    "borders": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ],
+    "cca2": "UG",
+    "name": {
+      "common": "Uganda"
+    }
+  },
+  {
+    "borders": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ],
+    "cca2": "ET",
+    "name": {
+      "common": "Ethiopia"
+    }
+  },
+  {
+    "borders": [
+      "BLR",
+      "EST",
+      "LTU",
+      "RUS"
+    ],
+    "cca2": "LV",
+    "name": {
+      "common": "Latvia"
+    }
+  },
+  {
+    "borders": [
+      "AUT",
+      "HRV",
+      "ROU",
+      "SRB",
+      "SVK",
+      "SVN",
+      "UKR"
+    ],
+    "cca2": "HU",
+    "name": {
+      "common": "Hungary"
+    }
+  },
+  {
+    "borders": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ],
+    "cca2": "BF",
+    "name": {
+      "common": "Burkina Faso"
+    }
+  },
+  {
+    "borders": [
+      "SXM"
+    ],
+    "cca2": "MF",
+    "name": {
+      "common": "Saint Martin"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "TV",
+    "name": {
+      "common": "Tuvalu"
+    }
+  },
+  {
+    "borders": [
+      "ITA"
+    ],
+    "cca2": "SM",
+    "name": {
+      "common": "San Marino"
+    }
+  },
+  {
+    "borders": [
+      "AGO",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM",
+      "TZA",
+      "ZWE"
+    ],
+    "cca2": "ZM",
+    "name": {
+      "common": "Zambia"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "IO",
+    "name": {
+      "common": "British Indian Ocean Territory"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "YT",
+    "name": {
+      "common": "Mayotte"
+    }
+  },
+  {
+    "borders": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ],
+    "cca2": "TJ",
+    "name": {
+      "common": "Tajikistan"
+    }
+  },
+  {
+    "borders": [
+      "MMR",
+      "KHM",
+      "LAO",
+      "MYS"
+    ],
+    "cca2": "TH",
+    "name": {
+      "common": "Thailand"
+    }
+  },
+  {
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "cca2": "YE",
+    "name": {
+      "common": "Yemen"
+    }
+  },
+  {
+    "borders": [
+      "DZA",
+      "LBY"
+    ],
+    "cca2": "TN",
+    "name": {
+      "common": "Tunisia"
+    }
+  },
+  {
+    "borders": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ],
+    "cca2": "UZ",
+    "name": {
+      "common": "Uzbekistan"
+    }
+  },
+  {
+    "borders": [
+      "BLR",
+      "LVA",
+      "POL",
+      "RUS"
+    ],
+    "cca2": "LT",
+    "name": {
+      "common": "Lithuania"
+    }
+  },
+  {
+    "borders": [
+      "MYS"
+    ],
+    "cca2": "BN",
+    "name": {
+      "common": "Brunei"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "JP",
+    "name": {
+      "common": "Japan"
+    }
+  },
+  {
+    "borders": [
+      "ZAF"
+    ],
+    "cca2": "LS",
+    "name": {
+      "common": "Lesotho"
+    }
+  },
+  {
+    "borders": [
+      "FRA",
+      "ESP"
+    ],
+    "cca2": "AD",
+    "name": {
+      "common": "Andorra"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "NF",
+    "name": {
+      "common": "Norfolk Island"
+    }
+  },
+  {
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "cca2": "PE",
+    "name": {
+      "common": "Peru"
+    }
+  },
+  {
+    "borders": [
+      "IDN"
+    ],
+    "cca2": "TL",
+    "name": {
+      "common": "Timor-Leste"
+    }
+  },
+  {
+    "borders": [
+      "BLZ",
+      "SLV",
+      "HND",
+      "MEX"
+    ],
+    "cca2": "GT",
+    "name": {
+      "common": "Guatemala"
+    }
+  },
+  {
+    "borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "cca2": "CN",
+    "name": {
+      "common": "China"
+    }
+  },
+  {
+    "borders": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ],
+    "cca2": "LY",
+    "name": {
+      "common": "Libya"
+    }
+  },
+  {
+    "borders": [
+      "GIN",
+      "SEN"
+    ],
+    "cca2": "GW",
+    "name": {
+      "common": "Guinea-Bissau"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "FJ",
+    "name": {
+      "common": "Fiji"
+    }
+  },
+  {
+    "borders": [
+      "AUT",
+      "CHE"
+    ],
+    "cca2": "LI",
+    "name": {
+      "common": "Liechtenstein"
+    }
+  },
+  {
+    "borders": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ],
+    "cca2": "SD",
+    "name": {
+      "common": "Sudan"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "GU",
+    "name": {
+      "common": "Guam"
+    }
+  },
+  {
+    "borders": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "cca2": "AO",
+    "name": {
+      "common": "Angola"
+    }
+  },
+  {
+    "borders": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ],
+    "cca2": "BJ",
+    "name": {
+      "common": "Benin"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "KI",
+    "name": {
+      "common": "Kiribati"
+    }
+  },
+  {
+    "borders": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "UNK",
+      "SRB"
+    ],
+    "cca2": "MK",
+    "name": {
+      "common": "North Macedonia"
+    }
+  },
+  {
+    "borders": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "cca2": "VE",
+    "name": {
+      "common": "Venezuela"
+    }
+  },
+  {
+    "borders": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ],
+    "cca2": "CD",
+    "name": {
+      "common": "DR Congo"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "KY",
+    "name": {
+      "common": "Cayman Islands"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "GD",
+    "name": {
+      "common": "Grenada"
+    }
+  },
+  {
+    "borders": [
+      "GIN",
+      "LBR"
+    ],
+    "cca2": "SL",
+    "name": {
+      "common": "Sierra Leone"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "MT",
+    "name": {
+      "common": "Malta"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "VU",
+    "name": {
+      "common": "Vanuatu"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "SG",
+    "name": {
+      "common": "Singapore"
+    }
+  },
+  {
+    "borders": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ],
+    "cca2": "AT",
+    "name": {
+      "common": "Austria"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "TC",
+    "name": {
+      "common": "Turks and Caicos Islands"
+    }
+  },
+  {
+    "borders": [
+      "GRC",
+      "MKD",
+      "ROU",
+      "SRB",
+      "TUR"
+    ],
+    "cca2": "BG",
+    "name": {
+      "common": "Bulgaria"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "TT",
+    "name": {
+      "common": "Trinidad and Tobago"
+    }
+  },
+  {
+    "borders": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ],
+    "cca2": "KG",
+    "name": {
+      "common": "Kyrgyzstan"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "AW",
+    "name": {
+      "common": "Aruba"
+    }
+  },
+  {
+    "borders": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "cca2": "GH",
+    "name": {
+      "common": "Ghana"
+    }
+  },
+  {
+    "borders": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ],
+    "cca2": "BO",
+    "name": {
+      "common": "Bolivia"
+    }
+  },
+  {
+    "borders": [
+      "COL",
+      "CRI"
+    ],
+    "cca2": "PA",
+    "name": {
+      "common": "Panama"
+    }
+  },
+  {
+    "borders": [
+      "BIH",
+      "HUN",
+      "MNE",
+      "SRB",
+      "SVN"
+    ],
+    "cca2": "HR",
+    "name": {
+      "common": "Croatia"
+    }
+  },
+  {
+    "borders": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ],
+    "cca2": "KP",
+    "name": {
+      "common": "North Korea"
+    }
+  },
+  {
+    "borders": [
+      "BRA",
+      "GUF",
+      "GUY"
+    ],
+    "cca2": "SR",
+    "name": {
+      "common": "Suriname"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "TO",
+    "name": {
+      "common": "Tonga"
+    }
+  },
+  {
+    "borders": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "cca2": "NG",
+    "name": {
+      "common": "Nigeria"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "GP",
+    "name": {
+      "common": "Guadeloupe"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "PR",
+    "name": {
+      "common": "Puerto Rico"
+    }
+  },
+  {
+    "borders": [
+      "NAM",
+      "ZAF",
+      "ZMB",
+      "ZWE"
+    ],
+    "cca2": "BW",
+    "name": {
+      "common": "Botswana"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "SJ",
+    "name": {
+      "common": "Svalbard and Jan Mayen"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "JM",
+    "name": {
+      "common": "Jamaica"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "PW",
+    "name": {
+      "common": "Palau"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "IM",
+    "name": {
+      "common": "Isle of Man"
+    }
+  },
+  {
+    "borders": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ],
+    "cca2": "TG",
+    "name": {
+      "common": "Togo"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "CC",
+    "name": {
+      "common": "Cocos (Keeling) Islands"
+    }
+  },
+  {
+    "borders": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ],
+    "cca2": "ML",
+    "name": {
+      "common": "Mali"
+    }
+  },
+  {
+    "borders": [
+      "ESP"
+    ],
+    "cca2": "PT",
+    "name": {
+      "common": "Portugal"
+    }
+  },
+  {
+    "borders": [
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR",
+      "TUR"
+    ],
+    "cca2": "IQ",
+    "name": {
+      "common": "Iraq"
+    }
+  },
+  {
+    "borders": [
+      "AUT",
+      "DEU",
+      "POL",
+      "SVK"
+    ],
+    "cca2": "CZ",
+    "name": {
+      "common": "Czechia"
+    }
+  },
+  {
+    "borders": [
+      "IDN"
+    ],
+    "cca2": "PG",
+    "name": {
+      "common": "Papua New Guinea"
+    }
+  },
+  {
+    "borders": [
+      "DEU"
+    ],
+    "cca2": "DK",
+    "name": {
+      "common": "Denmark"
+    }
+  },
+  {
+    "borders": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ],
+    "cca2": "AF",
+    "name": {
+      "common": "Afghanistan"
+    }
+  },
+  {
+    "borders": [
+      "AUT",
+      "CZE",
+      "HUN",
+      "POL",
+      "UKR"
+    ],
+    "cca2": "SK",
+    "name": {
+      "common": "Slovakia"
+    }
+  },
+  {
+    "borders": [
+      "COD",
+      "RWA",
+      "TZA"
+    ],
+    "cca2": "BI",
+    "name": {
+      "common": "Burundi"
+    }
+  },
+  {
+    "borders": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ],
+    "cca2": "KZ",
+    "name": {
+      "common": "Kazakhstan"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "NR",
+    "name": {
+      "common": "Nauru"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "BV",
+    "name": {
+      "common": "Bouvet Island"
+    }
+  },
+  {
+    "borders": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ],
+    "cca2": "FR",
+    "name": {
+      "common": "France"
+    }
+  },
+  {
+    "borders": [
+      "IRQ",
+      "ISR",
+      "PSE",
+      "SAU",
+      "SYR"
+    ],
+    "cca2": "JO",
+    "name": {
+      "common": "Jordan"
+    }
+  },
+  {
+    "borders": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ],
+    "cca2": "TZ",
+    "name": {
+      "common": "Tanzania"
+    }
+  },
+  {
+    "borders": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "cca2": "NE",
+    "name": {
+      "common": "Niger"
+    }
+  },
+  {
+    "borders": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SDN"
+    ],
+    "cca2": "TD",
+    "name": {
+      "common": "Chad"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "CY",
+    "name": {
+      "common": "Cyprus"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "GG",
+    "name": {
+      "common": "Guernsey"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "BL",
+    "name": {
+      "common": "Saint Barthélemy"
+    }
+  },
+  {
+    "borders": [
+      "BIH",
+      "BGR",
+      "HRV",
+      "HUN",
+      "UNK",
+      "MKD",
+      "MNE",
+      "ROU"
+    ],
+    "cca2": "RS",
+    "name": {
+      "common": "Serbia"
+    }
+  },
+  {
+    "borders": [
+      "LVA",
+      "RUS"
+    ],
+    "cca2": "EE",
+    "name": {
+      "common": "Estonia"
+    }
+  },
+  {
+    "borders": [
+      "BRA",
+      "SUR"
+    ],
+    "cca2": "GF",
+    "name": {
+      "common": "French Guiana"
+    }
+  },
+  {
+    "borders": [
+      "ISR",
+      "EGY",
+      "JOR"
+    ],
+    "cca2": "PS",
+    "name": {
+      "common": "Palestine"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "HM",
+    "name": {
+      "common": "Heard Island and McDonald Islands"
+    }
+  },
+  {
+    "borders": [
+      "COL",
+      "PER"
+    ],
+    "cca2": "EC",
+    "name": {
+      "common": "Ecuador"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "RE",
+    "name": {
+      "common": "Réunion"
+    }
+  },
+  {
+    "borders": [
+      "CHN"
+    ],
+    "cca2": "HK",
+    "name": {
+      "common": "Hong Kong"
+    }
+  },
+  {
+    "borders": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "cca2": "DZ",
+    "name": {
+      "common": "Algeria"
+    }
+  },
+  {
+    "borders": [
+      "ISR",
+      "LBY",
+      "PSE",
+      "SDN"
+    ],
+    "cca2": "EG",
+    "name": {
+      "common": "Egypt"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "CW",
+    "name": {
+      "common": "Curaçao"
+    }
+  },
+  {
+    "borders": [
+      "AGO",
+      "CMR",
+      "CAF",
+      "COD",
+      "GAB"
+    ],
+    "cca2": "CG",
+    "name": {
+      "common": "Republic of the Congo"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "NZ",
+    "name": {
+      "common": "New Zealand"
+    }
+  },
+  {
+    "borders": [
+      "DZA",
+      "MRT",
+      "MAR"
+    ],
+    "cca2": "EH",
+    "name": {
+      "common": "Western Sahara"
+    }
+  },
+  {
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "cca2": "NP",
+    "name": {
+      "common": "Nepal"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "FM",
+    "name": {
+      "common": "Micronesia"
+    }
+  },
+  {
+    "borders": [
+      "GBR"
+    ],
+    "cca2": "IE",
+    "name": {
+      "common": "Ireland"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "MG",
+    "name": {
+      "common": "Madagascar"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "BH",
+    "name": {
+      "common": "Bahrain"
+    }
+  },
+  {
+    "borders": [
+      "BRN",
+      "IDN",
+      "THA"
+    ],
+    "cca2": "MY",
+    "name": {
+      "common": "Malaysia"
+    }
+  },
+  {
+    "borders": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "PSE",
+      "SYR"
+    ],
+    "cca2": "IL",
+    "name": {
+      "common": "Israel"
+    }
+  },
+  {
+    "borders": [
+      "ISR",
+      "SYR"
+    ],
+    "cca2": "LB",
+    "name": {
+      "common": "Lebanon"
+    }
+  },
+  {
+    "borders": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ],
+    "cca2": "IT",
+    "name": {
+      "common": "Italy"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "MV",
+    "name": {
+      "common": "Maldives"
+    }
+  },
+  {
+    "borders": [
+      "CHN"
+    ],
+    "cca2": "MO",
+    "name": {
+      "common": "Macau"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "UM",
+    "name": {
+      "common": "United States Minor Outlying Islands"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "SH",
+    "name": {
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "WF",
+    "name": {
+      "common": "Wallis and Futuna"
+    }
+  },
+  {
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "cca2": "BR",
+    "name": {
+      "common": "Brazil"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "WS",
+    "name": {
+      "common": "Samoa"
+    }
+  },
+  {
+    "borders": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ],
+    "cca2": "DE",
+    "name": {
+      "common": "Germany"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "DM",
+    "name": {
+      "common": "Dominica"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "LC",
+    "name": {
+      "common": "Saint Lucia"
+    }
+  },
+  {
+    "borders": [
+      "LVA",
+      "LTU",
+      "POL",
+      "RUS",
+      "UKR"
+    ],
+    "cca2": "BY",
+    "name": {
+      "common": "Belarus"
+    }
+  },
+  {
+    "borders": [
+      "FRA"
+    ],
+    "cca2": "MC",
+    "name": {
+      "common": "Monaco"
+    }
+  },
+  {
+    "borders": [
+      "ITA"
+    ],
+    "cca2": "VA",
+    "name": {
+      "common": "Vatican City"
+    }
+  },
+  {
+    "borders": [
+      "NIC",
+      "PAN"
+    ],
+    "cca2": "CR",
+    "name": {
+      "common": "Costa Rica"
+    }
+  },
+  {
+    "borders": [
+      "IRL"
+    ],
+    "cca2": "GB",
+    "name": {
+      "common": "United Kingdom"
+    }
+  },
+  {
+    "borders": [
+      "ARM",
+      "AZE",
+      "RUS",
+      "TUR"
+    ],
+    "cca2": "GE",
+    "name": {
+      "common": "Georgia"
+    }
+  },
+  {
+    "borders": [
+      "MOZ",
+      "ZAF"
+    ],
+    "cca2": "SZ",
+    "name": {
+      "common": "Eswatini"
+    }
+  },
+  {
+    "borders": [
+      "GTM",
+      "HND"
+    ],
+    "cca2": "SV",
+    "name": {
+      "common": "El Salvador"
+    }
+  },
+  {
+    "borders": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "cca2": "RU",
+    "name": {
+      "common": "Russia"
+    }
+  },
+  {
+    "borders": [
+      "CAN",
+      "MEX"
+    ],
+    "cca2": "US",
+    "name": {
+      "common": "United States"
+    }
+  },
+  {
+    "borders": [
+      "ALB",
+      "BIH",
+      "HRV",
+      "UNK",
+      "SRB"
+    ],
+    "cca2": "ME",
+    "name": {
+      "common": "Montenegro"
+    }
+  },
+  {
+    "borders": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "cca2": "CI",
+    "name": {
+      "common": "Ivory Coast"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "BB",
+    "name": {
+      "common": "Barbados"
+    }
+  },
+  {
+    "borders": [
+      "BEL",
+      "FRA",
+      "DEU"
+    ],
+    "cca2": "LU",
+    "name": {
+      "common": "Luxembourg"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "MU",
+    "name": {
+      "common": "Mauritius"
+    }
+  },
+  {
+    "borders": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ],
+    "cca2": "GN",
+    "name": {
+      "common": "Guinea"
+    }
+  },
+  {
+    "borders": [
+      "CHN",
+      "RUS"
+    ],
+    "cca2": "MN",
+    "name": {
+      "common": "Mongolia"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "TW",
+    "name": {
+      "common": "Taiwan"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "GS",
+    "name": {
+      "common": "South Georgia"
+    }
+  },
+  {
+    "borders": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "cca2": "TR",
+    "name": {
+      "common": "Turkey"
+    }
+  },
+  {
+    "borders": [
+      "MMR",
+      "KHM",
+      "CHN",
+      "THA",
+      "VNM"
+    ],
+    "cca2": "LA",
+    "name": {
+      "common": "Laos"
+    }
+  },
+  {
+    "borders": [
+      "MWI",
+      "ZAF",
+      "SWZ",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ],
+    "cca2": "MZ",
+    "name": {
+      "common": "Mozambique"
+    }
+  },
+  {
+    "borders": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ],
+    "cca2": "RO",
+    "name": {
+      "common": "Romania"
+    }
+  },
+  {
+    "borders": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ],
+    "cca2": "PL",
+    "name": {
+      "common": "Poland"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "SC",
+    "name": {
+      "common": "Seychelles"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "PF",
+    "name": {
+      "common": "French Polynesia"
+    }
+  },
+  {
+    "borders": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ],
+    "cca2": "SO",
+    "name": {
+      "common": "Somalia"
+    }
+  },
+  {
+    "borders": [
+      "HRV",
+      "MNE",
+      "SRB"
+    ],
+    "cca2": "BA",
+    "name": {
+      "common": "Bosnia and Herzegovina"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "VC",
+    "name": {
+      "common": "Saint Vincent and the Grenadines"
+    }
+  },
+  {
+    "borders": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ],
+    "cca2": "KE",
+    "name": {
+      "common": "Kenya"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "VI",
+    "name": {
+      "common": "United States Virgin Islands"
+    }
+  },
+  {
+    "borders": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ],
+    "cca2": "DJ",
+    "name": {
+      "common": "Djibouti"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "ST",
+    "name": {
+      "common": "São Tomé and Príncipe"
+    }
+  },
+  {
+    "borders": [
+      "FRA",
+      "DEU",
+      "LUX",
+      "NLD"
+    ],
+    "cca2": "BE",
+    "name": {
+      "common": "Belgium"
+    }
+  },
+  {
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "cca2": "AE",
+    "name": {
+      "common": "United Arab Emirates"
+    }
+  },
+  {
+    "borders": [
+      "ARM",
+      "GEO",
+      "IRN",
+      "RUS",
+      "TUR"
+    ],
+    "cca2": "AZ",
+    "name": {
+      "common": "Azerbaijan"
+    }
+  },
+  {
+    "borders": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "cca2": "ID",
+    "name": {
+      "common": "Indonesia"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "MH",
+    "name": {
+      "common": "Marshall Islands"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "KN",
+    "name": {
+      "common": "Saint Kitts and Nevis"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "MP",
+    "name": {
+      "common": "Northern Mariana Islands"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "TF",
+    "name": {
+      "common": "French Southern and Antarctic Lands"
+    }
+  },
+  {
+    "borders": [
+      "ARG",
+      "BRA"
+    ],
+    "cca2": "UY",
+    "name": {
+      "common": "Uruguay"
+    }
+  },
+  {
+    "borders": [
+      "CMR",
+      "COG",
+      "GNQ"
+    ],
+    "cca2": "GA",
+    "name": {
+      "common": "Gabon"
+    }
+  },
+  {
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "cca2": "AR",
+    "name": {
+      "common": "Argentina"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "TK",
+    "name": {
+      "common": "Tokelau"
+    }
+  },
+  {
+    "borders": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ],
+    "cca2": "ES",
+    "name": {
+      "common": "Spain"
+    }
+  },
+  {
+    "borders": [
+      "IRQ",
+      "SAU"
+    ],
+    "cca2": "KW",
+    "name": {
+      "common": "Kuwait"
+    }
+  },
+  {
+    "borders": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ],
+    "cca2": "HN",
+    "name": {
+      "common": "Honduras"
+    }
+  },
+  {
+    "borders": [
+      "CRI",
+      "HND"
+    ],
+    "cca2": "NI",
+    "name": {
+      "common": "Nicaragua"
+    }
+  },
+  {
+    "borders": [
+      "FIN",
+      "NOR"
+    ],
+    "cca2": "SE",
+    "name": {
+      "common": "Sweden"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "MS",
+    "name": {
+      "common": "Montserrat"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "MQ",
+    "name": {
+      "common": "Martinique"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "FO",
+    "name": {
+      "common": "Faroe Islands"
+    }
+  },
+  {
+    "borders": [
+      "DOM"
+    ],
+    "cca2": "HT",
+    "name": {
+      "common": "Haiti"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "BS",
+    "name": {
+      "common": "Bahamas"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "IS",
+    "name": {
+      "common": "Iceland"
+    }
+  },
+  {
+    "borders": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ],
+    "cca2": "OM",
+    "name": {
+      "common": "Oman"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "AI",
+    "name": {
+      "common": "Anguilla"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "PN",
+    "name": {
+      "common": "Pitcairn Islands"
+    }
+  },
+  {
+    "borders": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "cca2": "RW",
+    "name": {
+      "common": "Rwanda"
+    }
+  },
+  {
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "cca2": "CL",
+    "name": {
+      "common": "Chile"
+    }
+  },
+  {
+    "borders": [
+      "SAU"
+    ],
+    "cca2": "QA",
+    "name": {
+      "common": "Qatar"
+    }
+  },
+  {
+    "borders": [
+      "CAF",
+      "COD",
+      "ETH",
+      "KEN",
+      "SDN",
+      "UGA"
+    ],
+    "cca2": "SS",
+    "name": {
+      "common": "South Sudan"
+    }
+  },
+  {
+    "borders": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ],
+    "cca2": "LR",
+    "name": {
+      "common": "Liberia"
+    }
+  },
+  {
+    "borders": [
+      "BLR",
+      "HUN",
+      "MDA",
+      "POL",
+      "ROU",
+      "RUS",
+      "SVK"
+    ],
+    "cca2": "UA",
+    "name": {
+      "common": "Ukraine"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "CU",
+    "name": {
+      "common": "Cuba"
+    }
+  },
+  {
+    "borders": [
+      "SEN"
+    ],
+    "cca2": "GM",
+    "name": {
+      "common": "Gambia"
+    }
+  },
+  {
+    "borders": [
+      "AUT",
+      "FRA",
+      "ITA",
+      "LIE",
+      "DEU"
+    ],
+    "cca2": "CH",
+    "name": {
+      "common": "Switzerland"
+    }
+  },
+  {
+    "borders": [
+      "AFG",
+      "ARM",
+      "AZE",
+      "IRQ",
+      "PAK",
+      "TUR",
+      "TKM"
+    ],
+    "cca2": "IR",
+    "name": {
+      "common": "Iran"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "BQ",
+    "name": {
+      "common": "Caribbean Netherlands"
+    }
+  },
+  {
+    "borders": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ],
+    "cca2": "TM",
+    "name": {
+      "common": "Turkmenistan"
+    }
+  },
+  {
+    "borders": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ],
+    "cca2": "ZA",
+    "name": {
+      "common": "South Africa"
+    }
+  },
+  {
+    "borders": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ],
+    "cca2": "AM",
+    "name": {
+      "common": "Armenia"
+    }
+  },
+  {
+    "borders": [
+      "CMR",
+      "GAB"
+    ],
+    "cca2": "GQ",
+    "name": {
+      "common": "Equatorial Guinea"
+    }
+  },
+  {
+    "borders": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ],
+    "cca2": "MR",
+    "name": {
+      "common": "Mauritania"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "NC",
+    "name": {
+      "common": "New Caledonia"
+    }
+  },
+  {
+    "borders": [
+      "HTI"
+    ],
+    "cca2": "DO",
+    "name": {
+      "common": "Dominican Republic"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "NU",
+    "name": {
+      "common": "Niue"
+    }
+  },
+  {
+    "borders": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ],
+    "cca2": "NA",
+    "name": {
+      "common": "Namibia"
+    }
+  },
+  {
+    "borders": [
+      "ALB",
+      "BGR",
+      "TUR",
+      "MKD"
+    ],
+    "cca2": "GR",
+    "name": {
+      "common": "Greece"
+    }
+  },
+  {
+    "borders": [
+      "LAO",
+      "THA",
+      "VNM"
+    ],
+    "cca2": "KH",
+    "name": {
+      "common": "Cambodia"
+    }
+  },
+  {
+    "borders": [
+      "PRK"
+    ],
+    "cca2": "KR",
+    "name": {
+      "common": "South Korea"
+    }
+  },
+  {
+    "borders": [
+      "ALB",
+      "MKD",
+      "MNE",
+      "SRB"
+    ],
+    "cca2": "XK",
+    "name": {
+      "common": "Kosovo"
+    }
+  },
+  {
+    "borders": [
+      "MNE",
+      "GRC",
+      "MKD",
+      "UNK"
+    ],
+    "cca2": "AL",
+    "name": {
+      "common": "Albania"
+    }
+  },
+  {
+    "borders": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ],
+    "cca2": "GY",
+    "name": {
+      "common": "Guyana"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "AS",
+    "name": {
+      "common": "American Samoa"
+    }
+  },
+  {
+    "borders": [
+      "CMR",
+      "TCD",
+      "COD",
+      "COG",
+      "SSD",
+      "SDN"
+    ],
+    "cca2": "CF",
+    "name": {
+      "common": "Central African Republic"
+    }
+  },
+  {
+    "borders": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ],
+    "cca2": "NO",
+    "name": {
+      "common": "Norway"
+    }
+  },
+  {
+    "borders": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ],
+    "cca2": "VN",
+    "name": {
+      "common": "Vietnam"
+    }
+  },
+  {
+    "borders": [
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK"
+    ],
+    "cca2": "IN",
+    "name": {
+      "common": "India"
+    }
+  },
+  {
+    "borders": [
+      "GTM",
+      "MEX"
+    ],
+    "cca2": "BZ",
+    "name": {
+      "common": "Belize"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "CK",
+    "name": {
+      "common": "Cook Islands"
+    }
+  },
+  {
+    "borders": [
+      "CAF",
+      "TCD",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ],
+    "cca2": "CM",
+    "name": {
+      "common": "Cameroon"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "JE",
+    "name": {
+      "common": "Jersey"
+    }
+  },
+  {
+    "borders": [
+      "BEL",
+      "DEU"
+    ],
+    "cca2": "NL",
+    "name": {
+      "common": "Netherlands"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "AQ",
+    "name": {
+      "common": "Antarctica"
+    }
+  },
+  {
+    "borders": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "cca2": "SN",
+    "name": {
+      "common": "Senegal"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "GL",
+    "name": {
+      "common": "Greenland"
+    }
+  },
+  {
+    "borders": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ],
+    "cca2": "MW",
+    "name": {
+      "common": "Malawi"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "CX",
+    "name": {
+      "common": "Christmas Island"
+    }
+  },
+  {
+    "borders": [
+      "AFG",
+      "CHN",
+      "IND",
+      "IRN"
+    ],
+    "cca2": "PK",
+    "name": {
+      "common": "Pakistan"
+    }
+  },
+  {
+    "borders": null,
+    "cca2": "VG",
+    "name": {
+      "common": "British Virgin Islands"
+    }
+  },
+  {
+    "borders": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ],
+    "cca2": "MA",
+    "name": {
+      "common": "Morocco"
+    }
+  },
+  {
+    "borders": [
+      "IRQ",
+      "ISR",
+      "JOR",
+      "LBN",
+      "TUR"
+    ],
+    "cca2": "SY",
+    "name": {
+      "common": "Syria"
+    }
+  },
+  {
+    "borders": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ],
+    "cca2": "SA",
+    "name": {
+      "common": "Saudi Arabia"
+    }
+  },
+  {
+    "borders": [
+      "ESP"
+    ],
+    "cca2": "GI",
+    "name": {
+      "common": "Gibraltar"
+    }
+  }
+]

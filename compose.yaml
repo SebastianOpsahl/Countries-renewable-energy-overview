@@ -1,0 +1,10 @@
+services:
+  demoapp:
+    build: .
+    environment:
+      - SOME_KEY=${variableKey}
+    volumes:
+      - ./.secrets:/credentials:ro
+    ports:
+      - '8000:8080'
+
